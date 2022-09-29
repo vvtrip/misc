@@ -1,2 +1,2 @@
 # misc
-This repo is for mmiscellaneous codes for reference
+This repo is for miscellaneous codes for reference
